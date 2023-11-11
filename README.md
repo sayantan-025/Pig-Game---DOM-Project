@@ -4,7 +4,7 @@
 
 <h2>🚀 Watch Live :</h2>
 
-[www.pig-game.com](https://developer-portfolio-landing-page-s25.netlify.app/)
+[www.pig-game.com](https://pig-game25.netlify.app/)
 
 <h2>👁️ Project Overview :</h2>
 
